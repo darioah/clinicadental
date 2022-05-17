@@ -1,0 +1,17 @@
+com\Proyectofinal\DentalDate\DentalDateApplication.class
+com\Proyectofinal\DentalDate\Entity\Usuario.class
+com\Proyectofinal\DentalDate\Repository\PacienteRepositorio.class
+com\Proyectofinal\DentalDate\ConfSeg\Configuracion.class
+com\Proyectofinal\DentalDate\Controller\AdminController.class
+com\Proyectofinal\DentalDate\Controller\MainController.class
+com\Proyectofinal\DentalDate\Repository\OdontologoRepositorio.class
+com\Proyectofinal\DentalDate\Service\TurnoService.class
+com\Proyectofinal\DentalDate\Service\UsuarioServicio.class
+com\Proyectofinal\DentalDate\Roles\Role.class
+com\Proyectofinal\DentalDate\Service\PacienteService.class
+com\Proyectofinal\DentalDate\Entity\Odontologo.class
+com\Proyectofinal\DentalDate\Repository\UsuarioRepositorio.class
+com\Proyectofinal\DentalDate\Repository\TurnoRepositorio.class
+com\Proyectofinal\DentalDate\Entity\Turno.class
+com\Proyectofinal\DentalDate\Entity\Paciente.class
+com\Proyectofinal\DentalDate\Service\OdontologoService.class
